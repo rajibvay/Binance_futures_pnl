@@ -12,16 +12,16 @@ ___
 
 ``cd Binance_futures_pnl``
 
-edit ``keys`` text file in ``account``
+edit ``keys`` text file in ``account``whalecryptoVIP
 
-``pip install requests``
+``pip install requests``Auction entry 17.00
 
-``pip install termcolor``
+``pip install termcolor`` 31.00
 
 ___
 
 ### Output
-You'll get both a .csv file and console output of overall profit in USDT
+You'll get both a .csv file and console output of overall profit in USDT 50
 
 ___
 
